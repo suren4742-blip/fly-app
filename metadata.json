@@ -1,0 +1,7 @@
+{
+  "name": "fly app",
+  "description": "FlyMind is your ultimate AI-powered creative studio. Master music theory with our AI Guru, analyze vocal tracks in the Voice Lab, and generate viral-ready store metadata. Whether you're a musician, video creator, or designer, FlyMind provides the technical insights and creative spark to help your projects take flight.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
